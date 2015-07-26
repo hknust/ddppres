@@ -43,7 +43,7 @@ type: sub-section
 
 The map below shows the aggregate GDP levels for 2013. The data is aggregated in R for the presentation and then rendered in 
 ggplot.
-`r getwd()`
+
 
 ```{r, echo=FALSE}
 
